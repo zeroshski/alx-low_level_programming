@@ -1,4 +1,3 @@
-nes (8 sloc)  299 Bytes
 #ifndef FUNCTION_POINTERS_
 #define FUNCTION_POINTERS_
 
